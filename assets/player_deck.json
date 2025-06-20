@@ -1,0 +1,12 @@
+[
+  { "name": "Wolf", "attack": 3, "health": 2, "cost": 2 },
+  { "name": "Bullfrog", "attack": 1, "health": 2, "cost": 1 },
+  { "name": "WolfCub", "attack": 1, "health": 1, "cost": 1 },
+  { "name": "Coyote", "attack": 2, "health": 1, "cost": 2 },
+  { "name": "Porcupine", "attack": 1, "health": 2, "cost": 2 },
+  { "name": "Adder", "attack": 1, "health": 1, "cost": 2 },
+  { "name": "Sparrow", "attack": 1, "health": 2, "cost": 1 },
+  { "name": "Skunk", "attack": 0, "health": 3, "cost": 2 },
+  { "name": "Bat", "attack": 2, "health": 1, "cost": 2 },
+  { "name": "RavenEgg", "attack": 0, "health": 2, "cost": 1 }
+]

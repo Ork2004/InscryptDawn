@@ -1,0 +1,54 @@
+{
+  "variants": [
+    [
+      [ null, { "name": "WolfCub", "attack": 1, "health": 1, "cost": 1 }, null, null ],
+      [ null, null, null, null ],
+      [ { "name": "Bullfrog", "attack": 1, "health": 2, "cost": 1 }, null, null, null ]
+    ],
+    [
+      [ null, { "name": "Sparrow", "attack": 1, "health": 2, "cost": 1 }, null, null ],
+      [ null, null, null, null ],
+      [ { "name": "Coyote", "attack": 2, "health": 1, "cost": 2 }, null, null, null ]
+    ],
+    [
+      [ null, null, null, null ],
+      [ null, { "name": "WolfCub", "attack": 1, "health": 1, "cost": 1 }, null, null ],
+      [ { "name": "Porcupine", "attack": 1, "health": 2, "cost": 2 }, null, null, null ]
+    ],
+    [
+      [ { "name": "Adder", "attack": 1, "health": 1, "cost": 2 }, null, null, null ],
+      [ null, null, null, null ],
+      [ null, { "name": "Bullfrog", "attack": 1, "health": 2, "cost": 1 }, null, null ]
+    ],
+    [
+      [ null, null, { "name": "Bat", "attack": 2, "health": 1, "cost": 2 }, null ],
+      [ null, null, null, null ],
+      [ { "name": "WolfCub", "attack": 1, "health": 1, "cost": 1 }, null, null, null ]
+    ],
+    [
+      [ null, null, null, null ],
+      [ null, { "name": "Coyote", "attack": 2, "health": 1, "cost": 2 }, null, null ],
+      [ null, null, { "name": "Bullfrog", "attack": 1, "health": 2, "cost": 1 }, null ]
+    ],
+    [
+      [ null, null, null, null ],
+      [ null, { "name": "Skunk", "attack": 0, "health": 3, "cost": 2 }, null, null ],
+      [ { "name": "Adder", "attack": 1, "health": 1, "cost": 2 }, null, null, null ]
+    ],
+    [
+      [ null, { "name": "Porcupine", "attack": 1, "health": 2, "cost": 2 }, null, null ],
+      [ null, null, null, null ],
+      [ null, null, { "name": "Wolf", "attack": 3, "health": 2, "cost": 2 }, null ]
+    ],
+    [
+      [ null, null, null, { "name": "RavenEgg", "attack": 0, "health": 2, "cost": 1 } ],
+      [ null, null, null, null ],
+      [ { "name": "Sparrow", "attack": 1, "health": 2, "cost": 1 }, null, null, null ]
+    ],
+    [
+      [ null, null, { "name": "WolfCub", "attack": 1, "health": 1, "cost": 1 }, null ],
+      [ null, null, null, null ],
+      [ null, { "name": "Bullfrog", "attack": 1, "health": 2, "cost": 1 }, null, null ]
+    ]
+  ]
+}
